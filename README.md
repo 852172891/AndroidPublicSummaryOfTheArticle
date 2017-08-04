@@ -5,6 +5,7 @@
 
 内容从2017-7-24开始，按时间倒叙排列
 <hr />
+
 ## [郭霖](http://blog.csdn.net/guolin_blog/)
 
 
@@ -93,7 +94,7 @@
 [关于 Android 程序员最近的状况](https://mp.weixin.qq.com/s/BcNKkCEEbyaaRL9GCJ3WjQ)
 
 
-##[编码美丽](http://www.wjdiankong.cn/)
+## [编码美丽](http://www.wjdiankong.cn/)
 [Android逆向之旅---Native层的Hook神器Cydia Substrate使用详解](https://mp.weixin.qq.com/s/F7xAbd49tmxYjjDJun3ArQ)
 
 [Android版本的"Wannacry"文件加密病毒样本分析(附带锁机)](http://mp.weixin.qq.com/s/UcBMesEnZd8NVdWZjZVmXg)
