@@ -1,10 +1,11 @@
 #  Android 公众号文章汇总
 
-##目的：现在很多大牛都有自己的公众号，有的文章质量很高，但是有时只是浏览了一下，下次真的用到的时候，却找不到了，目的就是解决这个问题。
+>目的：现在很多大牛都有自己的公众号，有的文章质量很高，但是有时只是浏览了一下，下次真的用到的时候，却找不到了，目的就是解决这个问题。
 
 
 内容从2017-7-24开始，按时间倒叙排列
 <hr />
+
 ## [郭霖](http://blog.csdn.net/guolin_blog/)
 
 [一碗鸡汤与学习方法——鱼与熊掌都可兼得](https://mp.weixin.qq.com/s/pIdVr-xKoone4dvNGDGTwg)
@@ -125,7 +126,7 @@
 [关于 Android 程序员最近的状况](https://mp.weixin.qq.com/s/BcNKkCEEbyaaRL9GCJ3WjQ)
 
 
-##[编码美丽](http://www.wjdiankong.cn/)
+## [编码美丽](http://www.wjdiankong.cn/)
 [Android逆向之旅---Native层的Hook神器Cydia Substrate使用详解](https://mp.weixin.qq.com/s/F7xAbd49tmxYjjDJun3ArQ)
 
 [Android版本的"Wannacry"文件加密病毒样本分析(附带锁机)](http://mp.weixin.qq.com/s/UcBMesEnZd8NVdWZjZVmXg)
@@ -133,16 +134,16 @@
 
 ##
 
-##问题反馈
+## 问题反馈
 如有问题或建议，欢迎反馈给我，可以用以下联系方式跟我交流
 
 
-##关于作者
+### 关于作者
 
 ```javascript
   var me = {
     nickName  : "wangbf_java",
     site : "http://blog.csdn.net/wangbf_java"
-	mail:"wangbaof@foxmail.com"
+    mail:"wangbaof@foxmail.com"
   }
 ```
