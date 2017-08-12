@@ -7,6 +7,17 @@
 <hr />
 ## [郭霖](http://blog.csdn.net/guolin_blog/)
 
+[一碗鸡汤与学习方法——鱼与熊掌都可兼得](https://mp.weixin.qq.com/s/pIdVr-xKoone4dvNGDGTwg)
+
+[一步步教你实现完整的复杂列表布局](https://mp.weixin.qq.com/s/XbR9M2oeYcvrhG6GgjIgGA) 介绍了如何使用 RecyclerView 实现复杂的布局
+
+[Sophix-阿里第三代非侵入式热修复](https://mp.weixin.qq.com/s/5Y72GPq-HafFSC9ot0RlWQ) [官方文档](https://help.aliyun.com/document_detail/53240.html?spm=5176.doc53287.2.1.UE4ljx)
+
+[利用FFmpeg玩转Android视频录制与压缩](https://mp.weixin.qq.com/s/AT47vpTELjGb5xrVt0AFNg)
+
+[AutoScrollBackLayout：给你的列表自动添加返回顶部按钮](https://mp.weixin.qq.com/s/MoHjpARbFMo1Il3ufL_x1Q)
+<br>在ListView，GridView，RecyclerView列表滚动向底部一段距离，就自动显示一个返回顶部的按纽
+[github地址](https://github.com/gaoneng102/AutoScrollBackLayout/tree/master/autoscrollbacklayout)
 
 [一起来看看知乎开源的图片选择库](https://mp.weixin.qq.com/s/jdCgHht2ZGiWoAMpmgunDA)
 <br>本文介绍了知乎开源的图片选择库，具体可以看源码[zhihu/Matisse Github](https://github.com/zhihu/Matisse)
@@ -43,6 +54,25 @@
 
 
 ## [鸿洋](http://blog.csdn.net/lmj623565791)
+[[Digging] 实现支付宝首页交互效果](https://mp.weixin.qq.com/s/ddTe5gu0orSIM1oG_BDblA)
+本文是一个系列
+
+[[Digging] 支付宝首页交互三部曲 1 CoordinatorLayout和Behavior](https://blog.kyleduo.com/2017/07/14/alipay-home-1-coordinatorlayout/)
+
+[[Digging] 支付宝首页交互三部曲 2 自定义Behavior](https://blog.kyleduo.com/2017/07/17/alipay-home-2-custom-behavior/)
+
+[Android插件化快速入门与实例解析（VirtualApk）](https://mp.weixin.qq.com/s/eRQwaJUr9y93ANEIfjktnQ) 作者也写过一些其他的插件化的文章[博客地址](http://www.jianshu.com/p/18530be5dcdd)
+
+[自定义控件 | 仿《最美有物》点赞效果](https://mp.weixin.qq.com/s/poQBEjggCEkyAUuKypYXxQ)用的动画比较多
+
+[Android 项目最新架构](https://mp.weixin.qq.com/s/3VfsKgqJBHvzwd8e_JPSGw)Google推出了一套新的项目架构组件和架构思路，从UI到Data,帮助我们更加精准的开发自己的APP 值得学习
+
+[android仿今日头条下拉刷新中的vector动画](http://blog.csdn.net/coderder/article/details/76034426)
+
+[MVVMArms - MVVM 与 Android Architecture Components 的最佳实战 github](https://github.com/xiaobailong24/MVVMArms/)
+
+[Android安全防护](https://mp.weixin.qq.com/s/40f3aDTty9GeNaQoDRl4cw)
+
 [仿金融APP收益曲线图](https://mp.weixin.qq.com/s/EzsYt86HqDALo-un1iZuHw)
 <br>[【!!!解决Retrofit多BaseUrl及运行时动态改变BaseUrl?】](http://www.jianshu.com/p/2919bdb8d09a)
 
@@ -74,6 +104,8 @@
 
 
 ## [玉刚说](http://blog.csdn.net/singwhatiwanna)
+[从零开始打造一个VR视频播放器](https://mp.weixin.qq.com/s/z6O4dVRCmGQXbSjP4hRThA)
+
 [如何实现 Android 动态壁纸效果？](https://mp.weixin.qq.com/s/4_ER7XsObMjRfHGOkOWmhg)
 <br>动态壁纸之前还真没见过这样的文章
 
