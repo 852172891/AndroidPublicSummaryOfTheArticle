@@ -7,6 +7,38 @@
 <hr />
 
 ## [郭霖](http://blog.csdn.net/guolin_blog/)
+[带你撸一个好玩的涂鸦View](http://mp.weixin.qq.com/s/BhDN0liU-7BtU94o6BtYAg) 可涂鸦的自定义View [作者博客：kuyue的专栏：developerHaoz](http://www.jianshu.com/u/09ef3072029d)
+
+[仿微信朋友圈发表图片拖拽和删除功能](http://mp.weixin.qq.com/s/nuMOLZHsXae81uZ-zhPzfg) [作者博客](http://my.csdn.net/u01323104)
+
+[一款简约的小视频app，带你走进kotlin](http://mp.weixin.qq.com/s/p-2O0fKakxRVdu88vvBk1w) [作者博客：ruheng](http://lruheng.com/page/2/)
+
+[LitePal 1.6.0版本来袭，数据加解密功能保障你的应用数据安全](http://mp.weixin.qq.com/s/TSp36cnKLxUmAHjT86UCrQ) 主要更新内容：数据加密（AES和MD5）、将数据库保存到SD卡。
+
+#####下边汇总一下之前的几个版本的文章
+
+csdn专栏地址 [Android数据库高手秘籍](http://blog.csdn.net/column/details/android-database-pro.html) GitHub [GitHub:An Android library that makes developers use SQLite database extremely easy.](https://github.com/LitePalFramework/LitePal)
+
+[LitePal 1.2.0版本已发布](http://mp.weixin.qq.com/s/1S7gnaVel2VoUC9gY7fq7g) 主要更新内容:转到AndroidStudio 上来
+
+[喜大普奔，LitePal 1.3.0 版本发布！](http://mp.weixin.qq.com/s/gzz3SG-mcNc_HYCpovQ3ag)主要更新内容：unique、ignore、允许开发者操作LitePal的核心数据。
+
+[LitePal 1.3.1发布了，从此支持图片存储！](http://mp.weixin.qq.com/s/7tDifDvOHr7YI7zCS9fpmQ) 3大部分升级：优化查询算法、saveFast()方法、存储二进制数据。
+
+[我为什么能将效率提升了800% 1.3.2](http://mp.weixin.qq.com/s/-_TrZ4-KiJgqwOxOUDqppg) 主要更新内容：支持外部存储、支持继承属性、添加findFirst()和findLast()。
+
+[你们要的多数据库功能终于来了 1.4.0](http://mp.weixin.qq.com/s/C7nbJXOS9lYPgOda-8Pw0A)主要更新内容：多数据库功、支持集合数据存储、数据库关键字转义。
+
+[LitePal 1.5.0版本发布，你想要的都在这里](http://mp.weixin.qq.com/s/GXPkrkiHk4MWNnpCLzTf_Q) 主要更新内容：异步操作数据库、不存在就存储，已存在就更新。
+
+
+
+
+
+
+[仿糖护士曲线图写的一个CurveChartView](http://mp.weixin.qq.com/s/Sw0yznTStt6Y5sMpzQ9jwg) 自定义View [作者博客](http://www.jianshu.com/u/1ae0f1a98794)
+
+
 
 [一碗鸡汤与学习方法——鱼与熊掌都可兼得](https://mp.weixin.qq.com/s/pIdVr-xKoone4dvNGDGTwg)
 
@@ -55,6 +87,18 @@
 
 
 ## [鸿洋](http://blog.csdn.net/lmj623565791)
+[如何打造一个 Android 编译时注解框架](https://mp.weixin.qq.com/s/x-PXFx7LuClOU9UTsk_0zQ) 作者博客[jokermonn](http://blog.csdn.net/ziwang_/article/details/76576495) [Github](https://github.com/jokermonn)
+
+[API的项目Github](https://github.com/jokermonn/-Api) 
+
+
+[自定义view | 强大的密码输入框](https://mp.weixin.qq.com/s/KxOlqF3SU38ztLcwB7uFyA)  作者博客[rokudol的博客](http://blog.rokudol.cn/) Github地址[rokudo_](https://github.com/rokudol/PswText)
+
+
+[Android实现APP在线下载更新](http://mp.weixin.qq.com/s/4wl_oBG7Zzsddu_RR3O3IQ) 作者博客[Teprinciple](http://www.jianshu.com/p/c089e222f820) [Github 地址](https://github.com/teprinciple/UpdateAppDemo)
+
+[最近开发的一款应用，我选择了哪些框架 & 第三方库](http://mp.weixin.qq.com/s/qqZ39W2gdlTIRimz8dmpXQ) QBox is a life tool App, contains modules: news; jokes; constellation fortune; LED; weather; calendar; two-dimensional code, and more ... 小秋魔盒是一个生活工具 App，主要功能有：新闻资讯；微信精选美文；笑话趣图；星座运势；LED字幕；天气；日历；二维码；手电筒；老黄历。在开发中尽可能多的用了目前比较流行的框架和库。[Github 地址](https://github.com/OCNYang/QBox)
+
 [[Digging] 实现支付宝首页交互效果](https://mp.weixin.qq.com/s/ddTe5gu0orSIM1oG_BDblA)
 本文是一个系列
 
