@@ -7,6 +7,23 @@
 <hr />
 
 ## [郭霖](http://blog.csdn.net/guolin_blog/)
+[打造Android轻量级框架XSnow](http://mp.weixin.qq.com/s/ABFcNSlwJ7tBNUlR6UoRJg)
+
+ 基于RxJava2+Retrofit2精心打造的Android基础框架，包含网络、上传、下载、缓存、事件总线、权限管理、数据库、图片加载、UI模块，基本都是项目中必用功能，每个模块充分解耦，可自由拓展。 [作者博客](https://juejin.im/user/5863647c61ff4b0063143dc0) [github 地址](https://github.com/xiaoyaoyou1212/XSnow)
+
+[Android APK安装过程源码解析](http://mp.weixin.qq.com/s/OBWtW7xQWludiVq81tgG1A) [作者博客](http://blog.csdn.net/qq_27540131) 
+
+[高仿ios相册地图功能](http://mp.weixin.qq.com/s/8F2l9btbRtH3MhXw0D7o-w) [作者博客](http://www.jianshu.com/u/75711cf32043) [github 地址](https://github.com/zhangchaojiong/BaiduMapClusterSample/tree/master)
+
+[Android开源项目(AOSP)](https://source.android.com/)
+
+[今日巨大福利，1元体验京东云服务器，附云服务器用法的完整教程](http://mp.weixin.qq.com/s/-9pqpz5FKTgPUi_1iRYnMQ) [XShell](http://www.netsarang.com/products/xsh_overview.html) [Xftp](http://www.netsarang.com/products/xfp_overview.html)
+
+
+
+[Android卡片式折叠交互效果](http://mp.weixin.qq.com/s/1D0KFvwY7ffoVaJhtVXqhA) [作者博客](http://blog.csdn.net/shu_lance) [CardStackView 的 GitHub 地址](https://github.com/loopeer/CardStackView)
+
+
 [带你撸一个好玩的涂鸦View](http://mp.weixin.qq.com/s/BhDN0liU-7BtU94o6BtYAg) 可涂鸦的自定义View [作者博客：kuyue的专栏：developerHaoz](http://www.jianshu.com/u/09ef3072029d)
 
 [仿微信朋友圈发表图片拖拽和删除功能](http://mp.weixin.qq.com/s/nuMOLZHsXae81uZ-zhPzfg) [作者博客](http://my.csdn.net/u01323104)
@@ -87,6 +104,19 @@ csdn专栏地址 [Android数据库高手秘籍](http://blog.csdn.net/column/deta
 
 
 ## [鸿洋](http://blog.csdn.net/lmj623565791)
+[现有Android项目引入ReactNative--九步大法](http://mp.weixin.qq.com/s/cGaWTdtIOt6yCXka0HhMgw)
+[作者博客](http://blog.csdn.net/github_33304260/article/details/76571961)
+
+[自定义View之仿小米MIUI天气24小时预报折线图](http://mp.weixin.qq.com/s/V6Hfp9dDFXDuhuKX3jopMw) [作者博客](http://blog.csdn.net/ccy0122/article/details/76464825)     [github](https://github.com/CCY0122/miuiweatherline)
+
+[Android 必备而又容易忽视的知识 Gradle的高级用法](https://mp.weixin.qq.com/s/GT1P-bj5ljlEgrj6QyxK7w) [作者博客](http://www.jianshu.com/u/4444d316215c)
+
+[Android工程师之Android面试大纲](https://mp.weixin.qq.com/s/bvB2U0-6ZJ1j06iVV4NmjQ) [作者博客](http://blog.csdn.net/qq_30379689/article/details/73698192) [github](https://github.com/AndroidHensen)
+
+
+
+[自定义View之添加银行卡动画 丝滑的页面切换](http://mp.weixin.qq.com/s/qpmkdsZb8BANrTmoGLfHNA)  [作者博客](http://www.jianshu.com/p/610c770d8898) [github地址](https://github.com/MrAllRight/BezierView)
+
 [如何打造一个 Android 编译时注解框架](https://mp.weixin.qq.com/s/x-PXFx7LuClOU9UTsk_0zQ) 作者博客[jokermonn](http://blog.csdn.net/ziwang_/article/details/76576495) [Github](https://github.com/jokermonn)
 
 [API的项目Github](https://github.com/jokermonn/-Api) 
