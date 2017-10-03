@@ -16,9 +16,10 @@
 ####精彩博客系列
 [drakeet.me](http://drakeet.me/)
 
+[Gityuan:Android系统系列](https://design-patterns.readthedocs.io/)
+
 ####开源项目搜索
 [codekk](http://p.codekk.com/)
-
 
 
 
